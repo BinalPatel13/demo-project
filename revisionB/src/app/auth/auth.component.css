@@ -1,0 +1,15 @@
+.img {
+    width: 100%;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+    top: 200px;
+    position: relative;
+}
+label{
+    
+    color: aliceblue;
+}
